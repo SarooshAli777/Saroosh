@@ -1,15 +1,1 @@
 #Saroosh ali#
-
-> I am loving it!
-
-**here ali**
-_saroosh ali_
-**_saroosh ali_**
-
-- saroosh ali
-- Saad ali
-- asad ali
-
-
-
-This is my website [Saroosh ali](https://github.com/SarooshAli777/Saroosh/blob/master/first.txt)
